@@ -229,7 +229,7 @@ A SOC analyst should capture:
 
 ---
 
-# **9. Example Investigation Flow (Using Your PCAP)**
+# **9. Example Investigation Flow 
 1. Open PCAP in Wireshark
 2. Go to **Statistics → Endpoints** to find the likely scanner
 3. Apply filter:
@@ -285,7 +285,7 @@ Case ID:
 
 ---
 
-## **Screenshot Placeholders (Replace With Your Own Wireshark Screenshots)**
+## **Screenshot Placeholders **
 Below are suggested screenshot placeholders you can capture and replace in your local PDF version.
 
 ### **1. Endpoints View (Identifying Top Talkers)**
